@@ -1,3 +1,3 @@
-### [View Existing Issues](https://github.com/SquashApp/Issues/issues)
+### [View Existing Issues](https://github.com/squashet/issues/issues)
 
-### [Create New Issue](https://github.com/SquashApp/Issues/issues/new/choose)
+### [Create New Issue](https://github.com/squashet/issues/issues/new/choose)
